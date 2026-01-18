@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.vscode/
+.idea/
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+.venv/
+
+# Локальные настройки
+*.env
+*.secret
